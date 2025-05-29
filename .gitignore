@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+ComfyUI/
+!ComfyUI/models/
+!ComfyUI/models/checkpoints/.gitkeep
+!ComfyUI/models/vae/.gitkeep
+!ComfyUI/models/clip/.gitkeep
+ComfyUI/output/
